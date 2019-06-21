@@ -86,7 +86,6 @@ done > output.txt
 
 cd .. 
 
-
 # Groups to cell type: https://docs.google.com/spreadsheets/d/1yikGx4MsO9Ei36b64yOy9Vb6oPC5IBGlFbYEt-N6gOM/edit#gid=15
 # tsv: https://docs.google.com/spreadsheets/d/1yikGx4MsO9Ei36b64yOy9Vb6oPC5IBGlFbYEt-N6gOM/export?format=tsv&id=1yikGx4MsO9Ei36b64yOy9Vb6oPC5IBGlFbYEt-N6gOM&gid=15
 wget -O metadata.txt "https://docs.google.com/spreadsheets/d/1yikGx4MsO9Ei36b64yOy9Vb6oPC5IBGlFbYEt-N6gOM/export?format=tsv&id=1yikGx4MsO9Ei36b64yOy9Vb6oPC5IBGlFbYEt-N6gOM&gid=15"
@@ -117,8 +116,10 @@ wget -r --no-host-directories --cut-dirs=5 -A '*HiCCUPS_looplist.txt.gz'  ftp://
 
 
 for file in *.gz; do 
+#loop
 fileName=`echo $file |sed 's/_HiCCUPS_looplist.txt.gz//g'`
-gunzip -c   GSE63525_GM12878_primary_HiCCUPS_looplist.txt.gz | cut -f 1,2,3,5,6 |grep -v chr1 | while read a b c d e; do echo $a $b $e . 1000 . $b $e 255,0,0 2 `echo $c - $b |bc`,`echo $e - $d|bc` 0,`echo $d - $b|bc` ;done |gzip  > $fileName.contacts.bed.gz
+gunzip -c   $file | cut -f 1,2,3,5,6 |grep -v chr1 | while read a b c d e; do echo $a $b $e . 1000 . $b $e 255,0,0 2 `echo $c - $b |bc`,`echo $e - $d|bc` 0,`echo $d - $b|bc` ;done |gzip  > $fileName.contacts.bed.gz
+#contacts only
 done
 
 
@@ -150,8 +151,8 @@ while read name id; do
     mkdir tfbs
     cp $sourcedir/TFBS/$name/*.bb tfbs/
   
-	# annotations: segway + chrommhmm
-	mkdir annotations
+	  # annotations: segway + chrommhmm
+	  mkdir annotations
     cp $sourcedir/segway/`echo  $name `* annotations/segway_`echo  $name`.bed.gz
     cp $sourcedir/ChmmModels/`echo $id`_15_coreMarks_dense.bed.gz annotations/`echo $id`_chromhmm_15_coreMarks_dense.bed.gz
     
