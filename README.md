@@ -1,5 +1,5 @@
 # simsearch-quickload
-Quickload repository with sample data for testing the SimSearch app (see (see [Simsearch](https://deib-geco.github.io/simsearch/) ).
+Quickload repository with sample data for testing the SimSearch app (see [Simsearch](https://deib-geco.github.io/simsearch/)).
 
 It can be loaded into [IGB](http://bioviz.org/igb/):
 
