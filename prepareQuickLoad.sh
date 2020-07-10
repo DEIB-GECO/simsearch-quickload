@@ -179,8 +179,12 @@ done
 
 mkdir quickload
 
+
 # move everything to quickload folder
 for assembly in H_sapiens_Feb_2009 H_sapiens_Dec_2013; do  
+
+    rename gm12878 GM12878 $assembly/TFBS/*
+
     while read name id; do
         targetdir=quickload/$assembly/$id-$name
         mkdir -p $targetdir
@@ -188,6 +192,7 @@ for assembly in H_sapiens_Feb_2009 H_sapiens_Dec_2013; do
         # roadmap
         mkdir $targetdir/histonemark
         cp $assembly/peaks/$id*narrow*.bb $targetdir/histonemark/
+
         mkdir $targetdir/tfbs
         cp $assembly/TFBS/$name*.bb $targetdir/tfbs/
     
@@ -213,16 +218,16 @@ for assembly in H_sapiens_Feb_2009 H_sapiens_Dec_2013; do
 
     while read name id; do
 
-    for filename in `ls $id-$name/histonemark/ |grep narrow`; do
+    for filename in `ls quickload/$assembly/$id-$name/histonemark/ |grep narrow`; do
         echo "  <file title=\"$id-$name/histone-marks/$filename\" name=\"$id-$name/histonemark/$filename\"/>" >> quickload/$assembly/annots.xml
     done
-    for filename in `ls $id-$name/tfbs/`; do
+    for filename in `ls quickload/$assembly/$id-$name/tfbs/`; do
         echo "  <file title=\"$id-$name/tfbs/$filename\" name=\"$id-$name/tfbs/$filename\"/>" >> quickload/$assembly/annots.xml
     done
-    for filename in `ls $id-$name/annotations/`; do
+    for filename in `ls quickload/$assembly/$id-$name/annotations/`; do
         echo "  <file title=\"$id-$name/annotations/$filename\" name=\"$id-$name/annotations/$filename\"/>" >> quickload/$assembly/annots.xml
     done
-    for filename in `ls $id-$name/loops/`; do
+    for filename in `ls quickload/$assembly/$id-$name/loops/`; do
         echo "  <file title=\"$id-$name/loops/$filename\" name=\"$id-$name/loops/$filename\"/>" >> quickload/$assembly/annots.xml
     done
     done <  celllines.txt
