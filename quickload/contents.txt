@@ -1,2 +1,0 @@
-H_sapiens_Feb_2009	Homo sapiens (Feb 2009) human being (GRCh37/hg19)
-H_sapiens_Dec_2013	Homo sapiens (Dec 2013) human being (GRCh38/hg38)
