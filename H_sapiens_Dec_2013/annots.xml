@@ -11,6 +11,100 @@
   <file title="E116-GM12878/histone-marks/E116-H3K9ac.narrowPeak.bb" name="E116-GM12878/histonemark/E116-H3K9ac.narrowPeak.bb"/>
   <file title="E116-GM12878/histone-marks/E116-H3K9me3.narrowPeak.bb" name="E116-GM12878/histonemark/E116-H3K9me3.narrowPeak.bb"/>
   <file title="E116-GM12878/histone-marks/E116-H4K20me1.narrowPeak.bb" name="E116-GM12878/histonemark/E116-H4K20me1.narrowPeak.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Atf2_Haib.bb" name="E116-GM12878/tfbs/GM12878_Atf2_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Atf3_Haib.bb" name="E116-GM12878/tfbs/GM12878_Atf3_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Batf_Haib.bb" name="E116-GM12878/tfbs/GM12878_Batf_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Bcl11a_Haib.bb" name="E116-GM12878/tfbs/GM12878_Bcl11a_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Bcl3_Haib.bb" name="E116-GM12878/tfbs/GM12878_Bcl3_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Bclaf_Haib.bb" name="E116-GM12878/tfbs/GM12878_Bclaf_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Bhlhe_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Bhlhe_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Brca1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Brca1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Cebpb_Haib.bb" name="E116-GM12878/tfbs/GM12878_Cebpb_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Cfos_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Cfos_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Chd1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Chd1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Chd2_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Chd2_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Cmyc_Uta.bb" name="E116-GM12878/tfbs/GM12878_Cmyc_Uta.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Corest_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Corest_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ctcf_Broad.bb" name="E116-GM12878/tfbs/GM12878_Ctcf_Broad.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ctcf_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Ctcf_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ctcf_Uta.bb" name="E116-GM12878/tfbs/GM12878_Ctcf_Uta.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ctcf_Uw.bb" name="E116-GM12878/tfbs/GM12878_Ctcf_Uw.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_DNase.bb" name="E116-GM12878/tfbs/GM12878_DNase.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_E2f4_Sydh.bb" name="E116-GM12878/tfbs/GM12878_E2f4_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ebf1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Ebf1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ebf1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Ebf1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Egr1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Egr1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Elf1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Elf1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Elk1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Elk1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ets1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Ets1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ezh2_Broad.bb" name="E116-GM12878/tfbs/GM12878_Ezh2_Broad.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Foxm1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Foxm1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Gabp_Haib.bb" name="E116-GM12878/tfbs/GM12878_Gabp_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Gcn5_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Gcn5_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Ikzf1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Ikzf1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Irf3_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Irf3_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Irf4_Haib.bb" name="E116-GM12878/tfbs/GM12878_Irf4_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Jund_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Jund_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Max_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Max_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Maz_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Maz_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Mef2a_Haib.bb" name="E116-GM12878/tfbs/GM12878_Mef2a_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Mef2c_Haib.bb" name="E116-GM12878/tfbs/GM12878_Mef2c_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Mta3_Haib.bb" name="E116-GM12878/tfbs/GM12878_Mta3_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Mxi_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Mxi_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nfat_Haib.bb" name="E116-GM12878/tfbs/GM12878_Nfat_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nfe2_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Nfe2_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nfic_Haib.bb" name="E116-GM12878/tfbs/GM12878_Nfic_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_NfkbTnfa_Sydh.bb" name="E116-GM12878/tfbs/GM12878_NfkbTnfa_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nfya_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Nfya_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nfyb_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Nfyb_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nrf1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Nrf1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Nrsf_Haib.bb" name="E116-GM12878/tfbs/GM12878_Nrsf_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_P300b_Sydh.bb" name="E116-GM12878/tfbs/GM12878_P300b_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_P300_Haib.bb" name="E116-GM12878/tfbs/GM12878_P300_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_P300Iggmus_Sydh.bb" name="E116-GM12878/tfbs/GM12878_P300Iggmus_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pax5c20_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pax5c20_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pax5n19_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pax5n19_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pbx3_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pbx3_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pml_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pml_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol24h8_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pol24h8_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol2_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pol2_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol2Iggmus_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Pol2Iggmus_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol2s2_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Pol2s2_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol2_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Pol2_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol2_Uta.bb" name="E116-GM12878/tfbs/GM12878_Pol2_Uta.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pol3_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Pol3_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pou2f2_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pou2f2_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Pu1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Pu1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Rad21_Haib.bb" name="E116-GM12878/tfbs/GM12878_Rad21_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Rad21_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Rad21_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Rfx5_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Rfx5_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Runx3_Haib.bb" name="E116-GM12878/tfbs/GM12878_Runx3_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Rxra_Haib.bb" name="E116-GM12878/tfbs/GM12878_Rxra_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Sin3a_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Sin3a_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Six5_Haib.bb" name="E116-GM12878/tfbs/GM12878_Six5_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Smc3_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Smc3_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Sp1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Sp1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Spt20_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Spt20_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Srf_Haib.bb" name="E116-GM12878/tfbs/GM12878_Srf_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Stat1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Stat1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Stat3_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Stat3_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Stat5_Haib.bb" name="E116-GM12878/tfbs/GM12878_Stat5_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Taf1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Taf1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Tblr1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Tblr1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Tbp_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Tbp_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Tcf12_Haib.bb" name="E116-GM12878/tfbs/GM12878_Tcf12_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Tcf3_Haib.bb" name="E116-GM12878/tfbs/GM12878_Tcf3_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Tr4_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Tr4_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Usf1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Usf1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Usf2_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Usf2_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Whip_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Whip_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Yy1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Yy1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Yy1_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Yy1_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Zbtb33_Haib.bb" name="E116-GM12878/tfbs/GM12878_Zbtb33_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Zeb1_Haib.bb" name="E116-GM12878/tfbs/GM12878_Zeb1_Haib.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Znf143_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Znf143_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Znf274_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Znf274_Sydh.bb"/>
+  <file title="E116-GM12878/tfbs/GM12878_Zzz3_Sydh.bb" name="E116-GM12878/tfbs/GM12878_Zzz3_Sydh.bb"/>
   <file title="E116-GM12878/annotations/E116_chromhmm_15_coreMarks_dense.bed.gz" name="E116-GM12878/annotations/E116_chromhmm_15_coreMarks_dense.bed.gz"/>
   <file title="E117-HeLa/histone-marks/E117-DNase.macs2.narrowPeak.bb" name="E117-HeLa/histonemark/E117-DNase.macs2.narrowPeak.bb"/>
   <file title="E117-HeLa/histone-marks/E117-H2A.Z.narrowPeak.bb" name="E117-HeLa/histonemark/E117-H2A.Z.narrowPeak.bb"/>
@@ -26,6 +120,13 @@
   <file title="E117-HeLa/histone-marks/E117-H4K20me1.narrowPeak.bb" name="E117-HeLa/histonemark/E117-H4K20me1.narrowPeak.bb"/>
   <file title="E117-HeLa/annotations/E117_chromhmm_15_coreMarks_dense.bed.gz" name="E117-HeLa/annotations/E117_chromhmm_15_coreMarks_dense.bed.gz"/>
   <file title="E117-HeLa/loops/GSE63525_HeLa.contacts.bed.gz" name="E117-HeLa/loops/GSE63525_HeLa.contacts.bed.gz"/>
+  <file title="E028 E119-HMEC/tfbs/E119-HMEC/tfbs/:" name="E028 E119-HMEC/tfbs/E119-HMEC/tfbs/:"/>
+  <file title="E028 E119-HMEC/tfbs/quickload/H_sapiens_Dec_2013/E028:" name="E028 E119-HMEC/tfbs/quickload/H_sapiens_Dec_2013/E028:"/>
+  <file title="E028 E119-HMEC/annotations/E119-HMEC/annotations/:" name="E028 E119-HMEC/annotations/E119-HMEC/annotations/:"/>
+  <file title="E028 E119-HMEC/annotations/quickload/H_sapiens_Dec_2013/E028:" name="E028 E119-HMEC/annotations/quickload/H_sapiens_Dec_2013/E028:"/>
+  <file title="E028 E119-HMEC/loops/E119-HMEC/loops/:" name="E028 E119-HMEC/loops/E119-HMEC/loops/:"/>
+  <file title="E028 E119-HMEC/loops/GSE63525_HMEC.contacts.bed.gz" name="E028 E119-HMEC/loops/GSE63525_HMEC.contacts.bed.gz"/>
+  <file title="E028 E119-HMEC/loops/quickload/H_sapiens_Dec_2013/E028:" name="E028 E119-HMEC/loops/quickload/H_sapiens_Dec_2013/E028:"/>
   <file title="E122-HUVEC/histone-marks/E122-DNase.macs2.narrowPeak.bb" name="E122-HUVEC/histonemark/E122-DNase.macs2.narrowPeak.bb"/>
   <file title="E122-HUVEC/histone-marks/E122-H2A.Z.narrowPeak.bb" name="E122-HUVEC/histonemark/E122-H2A.Z.narrowPeak.bb"/>
   <file title="E122-HUVEC/histone-marks/E122-H3K27ac.narrowPeak.bb" name="E122-HUVEC/histonemark/E122-H3K27ac.narrowPeak.bb"/>
